@@ -26,7 +26,7 @@ This project was created to:
 
 ## 📷 Preview
 
-![Calculator UI Screenshot](iPhone 15 Pro.pdf)
+![Calculator UI Screenshot]([iPhone 15 Pro.pdf](https://github.com/Headhunter56/calculator-ui/blob/1da5ad36a6b339b56860510532357c4f57ba035d/iPhone%2015%20Pro.pdf))
 
 
 ## 🚀 Future Improvements
