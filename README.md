@@ -26,7 +26,7 @@ This project was created to:
 
 ## 📷 Preview
 
-![Calculator UI Screenshot](link-to-your-image-or-attach-it-on-GitHub)
+![Calculator UI Screenshot](iPhone 15 Pro.pdf)
 
 
 ## 🚀 Future Improvements
